@@ -11,6 +11,6 @@ public class MVC {
          Kontroler kontroler = new Kontroler(model, widok);
         
          widok.setVisible(true);
-        
+        int a;
     }
 }
